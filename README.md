@@ -11,7 +11,6 @@ Simulated annealing is used to fetch a near-optimal journey, among the possible 
 
 Link to <a href = "https://drive.google.com/file/d/1S6LqCZte-iccXq7kqXC1QHYmjt1DHkYu/view?usp=drive_link">intermediary files generated during the run</a>. <br>
 
-<h3>Screenshots: <h3>
+**Screenshots:**
 
-1. Following is a plot depecting that the risk associated with the journey suggested using proposed approach is least in most of the circumstances than merely using considering a journey emphasizing on increase in CLTV.
-<img width="1710" height="1107" alt="image" src="https://github.com/user-attachments/assets/45ca445d-a066-49d8-b5f1-0254325e80d9" />
+1. Following is a plot depecting that the risk associated with the journey suggested using proposed approach is least in most of the circumstances than merely using considering a journey emphasizing on increase in CLTV.<img width="1037" height="406" alt="Screenshot 2025-10-27 at 3 46 34 AM" src="https://github.com/user-attachments/assets/89aac963-322a-4f71-8698-86520c7c5ab2" />
