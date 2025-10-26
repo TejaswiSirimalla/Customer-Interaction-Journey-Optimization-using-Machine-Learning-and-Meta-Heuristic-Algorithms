@@ -16,7 +16,7 @@ Link to <a href = "https://drive.google.com/file/d/1S6LqCZte-iccXq7kqXC1QHYmjt1D
 1. Following plot depects that the risk associated with the journey suggested using proposed approach is least in most of the circumstances than merely considering a journey emphasizing on increase in CLTV.<img width="1037" height="406" alt="Screenshot 2025-10-27 at 3 46 34 AM" src="https://github.com/user-attachments/assets/89aac963-322a-4f71-8698-86520c7c5ab2" />
 
 2. Following plot depects that the risk associated with the journey suggested using proposed approach is least in most of the circumstances than merely considering a journey emphasizing on decrease in Churn Score.
-<img width="1053" height="420" alt="Screenshot 2025-10-27 at 3 50 57 AM" src="https://github.com/user-attachments/assets/034926ee-8ead-4a6a-887e-75dee28b1462" />
+<img width="1040" height="421" alt="image" src="https://github.com/user-attachments/assets/28794d1f-a246-4ec1-9745-062cd5fc59a6" />
 
 3. Following plot depects that the risk associated with the journey suggested using proposed approach is least in most of the circumstances than merely considering a journey emphasizing on increase in Satisfaction Score. <img width="1053" height="426" alt="image" src="https://github.com/user-attachments/assets/e5993aad-0979-4eee-a5d8-4929f168cbf5" />
 
