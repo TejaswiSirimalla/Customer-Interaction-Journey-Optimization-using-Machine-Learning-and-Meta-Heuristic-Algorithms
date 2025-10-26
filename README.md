@@ -22,3 +22,6 @@ Link to <a href = "https://drive.google.com/file/d/1S6LqCZte-iccXq7kqXC1QHYmjt1D
 
 4. Following plot depects that the risk associated with the journey suggested using proposed approach is least in most of the circumstances than merely considering a journey emphasizing on greedy variations of CLTV, Churn Score and Satisfaction Score.
    <img width="1048" height="426" alt="image" src="https://github.com/user-attachments/assets/8a8a8a09-7f87-476e-8d3e-de9d0c276acc" />
+
+<br>
+The notebooks in the repository could be simulated in Kaggle. Interactive graphs for the above plots are saved as HTML files in the repository.
