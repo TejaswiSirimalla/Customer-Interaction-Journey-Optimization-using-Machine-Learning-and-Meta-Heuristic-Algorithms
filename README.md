@@ -9,4 +9,9 @@ New features are engineered considering the expertise in the domain and using ad
 Machine Learning models are trained to predict the features which correspond to variation in the key factors subject to customer's portfolio. Opportunity metic is derived through a weighted combination of these predictions. The distribution of weights among these predictions could be suggested by business based on their requirements. <br>
 Simulated annealing is used to fetch a near-optimal journey, among the possible options, constrained by the configurations of various products subscribed by customers.<br> Marketing is suggested to utilize the inputs derived and communicated from such journeys. An increase in opportunity for retaining a customer could be translated to decrease in risk associated with a customer from being churned. Comparison of decrease in risk from proposed approach with the conventional approaches could be found in the HTML pages from the repository<br>
 
-Link to <a href = "https://drive.google.com/file/d/1S6LqCZte-iccXq7kqXC1QHYmjt1DHkYu/view?usp=drive_link">Additional files</a>. 
+Link to <a href = "https://drive.google.com/file/d/1S6LqCZte-iccXq7kqXC1QHYmjt1DHkYu/view?usp=drive_link">intermediary files generated during the run</a>. <br>
+
+<h3>Screenshots: <h3>
+
+1. Following is a plot depecting that the risk associated with the journey suggested using proposed approach is least in most of the circumstances than merely using considering a journey emphasizing on increase in CLTV.
+<img width="1710" height="1107" alt="image" src="https://github.com/user-attachments/assets/45ca445d-a066-49d8-b5f1-0254325e80d9" />
